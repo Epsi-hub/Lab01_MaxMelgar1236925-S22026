@@ -19,17 +19,6 @@ public class Lab01_MaxMelgar1236925 {
         Scanner scanner = new Scanner(System.in);
         int opcion;
         
-        ArbolBinario.Insertar(225);
-        ArbolBinario.Insertar(146);
-        ArbolBinario.Insertar(4);
-        ArbolBinario.Insertar(399);
-        ArbolBinario.Insertar(300);
-        
-        ArbolBinario.Insertar(800);
-        ArbolBinario.Insertar(601);
-        ArbolBinario.Insertar(862);
-        ArbolBinario.Insertar(815);
-        ArbolBinario.Insertar(888);
         
         do {
             System.out.println("\n 1.Insertar \n  2.Buscar \n  3.Eliminar \n  4.Recorridos  \n 5.Salir \n");
